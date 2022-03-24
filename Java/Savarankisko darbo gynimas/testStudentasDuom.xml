@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<studentas>
+	<vidurkis>10</vidurkis>
+    <vardas>Stud_1</vardas>
+    <kursas>1</kursas>
+    <fakultetas>INF</fakultetas>    
+</studentas>       
+<studentas>
+    <vardas>Stud_2</vardas>
+    <kursas>1</kursas>
+    <fakultetas>INF</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>      
+<studentas>
+    <vardas>Stud_3</vardas>
+    <kursas>1</kursas>
+    <fakultetas>INF</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>   
+<studentas>
+    <vardas>Stud_1</vardas>
+    <kursas>2</kursas>
+    <fakultetas>INF</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>       
+<studentas>
+    <vardas>Stud_2</vardas>
+    <kursas>2</kursas>
+    <fakultetas>INF</fakultetas>
+    <vidurkis>7</vidurkis>
+</studentas>      
+<studentas>
+    <vardas>Stud_3</vardas>
+    <kursas>2</kursas>
+    <fakultetas>INF</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas> 
+<studentas>
+    <vardas>Stud_1</vardas>
+    <kursas>1</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>       
+<studentas>
+    <vardas>Stud_2</vardas>
+    <kursas>1</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>      
+<studentas>
+    <vardas>Stud_3</vardas>
+    <kursas>1</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>   
+<studentas>
+    <vardas>Stud_124</vardas>
+    <kursas>3</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>8</vidurkis>
+</studentas>  
+<studentas>
+    <vardas>Stud_31</vardas>
+    <kursas>1</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>10</vidurkis>
+</studentas>   
+<studentas>
+    <vardas>Stud_134</vardas>
+    <kursas>3</kursas>
+    <fakultetas>DIZ</fakultetas>
+    <vidurkis>8</vidurkis>
+</studentas>     
+</root>
